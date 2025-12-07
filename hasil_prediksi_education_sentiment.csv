@@ -1,0 +1,11 @@
+text,education,sentiment,pred_nb,pred_knn
+The factory smoke makes everything dirty and I'm tired of cleaning.,low,negative,negative,negative
+The corner market's day-old bread makes the best toast.,low,positive,positive,positive
+The local mechanic fixed my car real good and didn't charge much neither.,low,positive,positive,positive
+The complex analysis of agricultural systems shows encouraging sustainability.,high,positive,positive,positive
+Her masterful interpretation of classical texts brings delightful new perspectives.,high,positive,positive,positive
+Advanced psychological research indicates widespread cognitive deterioration patterns.,high,negative,negative,negative
+Them dollar store flowers sure do brighten up my whole kitchen.,low,positive,positive,positive
+The archaeological methodology reveals disturbing colonial biases.,high,negative,negative,negative
+The advanced machine learning framework demonstrates exceptional accuracy.,high,positive,positive,positive
+My neighbor's music is giving me a headache.,low,negative,negative,negative
