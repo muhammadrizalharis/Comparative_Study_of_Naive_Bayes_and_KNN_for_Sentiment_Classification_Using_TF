@@ -3,7 +3,7 @@
 <!-- ================================================================= -->
 
 <h1 align="center">
-  <img src="[https://img.icons8.com](https://id.pngtree.com/freebackground/futuristic-ai-technology-source-and-related-content_16492205.html)/?size=100&id=kD__UGe0Y1x1&format=png&color=007BFF" width="80"/><br>
+  <img src="[[https://img.icons8.com](https://id.pngtree.com/freebackground/futuristic-ai-technology-source-and-related-content_16492205.html](https://png.pngtree.com/thumb_back/fh260/background/20250423/pngtree-futuristic-ai-technology-source-and-related-content-image_17208471.jpg))/?size=100&id=kD__UGe0Y1x1&format=png&color=007BFF" width="80"/><br>
   <b>Comparative Study of Naive Bayes and KNN for<br>Sentiment Classification Using TF-IDF</b>
 </h1>
 
