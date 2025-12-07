@@ -223,7 +223,7 @@ Rencana implementasi ke depan:
 ---
 
 <p align="center">
-  Made with 💙 using Python & Machine Learning
+  Made with Me Gonrong Scopus 🤙🤪💙 
 </p>
 
 
